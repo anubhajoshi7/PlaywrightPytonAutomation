@@ -1,0 +1,5 @@
+[setup]
+
+baseurl = "https://demoqa.com"
+username = "testuser"
+password = "Test@123"
